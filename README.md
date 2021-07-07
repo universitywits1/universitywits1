@@ -24,4 +24,3 @@ KINDLY NOW WORKING ON A GROUP MANAGER BOT ALSO MANAGING A UPDATES CHANNEL, SUPPO
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-JINN-OF-TG)](https://github.com/MR-JINN-OF-T
   
-# ᴅᴏɴᴛ ᴊᴜᴅɢᴇ ᴍᴇ ʙʏ ᴡᴀᴛᴄʜɪɴɢ ᴍʏ ɢɪᴛʜᴜ ꜱᴛᴀᴛᴜꜱ ʜᴀᴠᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴇᴅ ᴛᴏ ᴀ ʟᴏᴛ ᴏꜰ ᴡᴏʀᴋꜱ......ᴀɴᴅ ᴀʟꜱᴏ ꜱᴏᴍᴇ ᴏꜰ ᴍɪɴᴇ ꜰʀɪᴇɴᴅꜱ ᴀʀᴇ ᴛᴏᴏ ʜᴇʟᴘɪɴɢ ᴍᴇ ᴏɴ ɪᴛ......
