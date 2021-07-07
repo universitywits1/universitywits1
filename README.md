@@ -22,5 +22,5 @@ KINDLY NOW WORKING ON A GROUP MANAGER BOT ALSO MANAGING A UPDATES CHANNEL, SUPPO
     <summary>Top Languages</summary>
     <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-JINN-OF-TG)](https://github.com/MR-JINN-OF-T
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-JINN-OF-TG)](https://github.com/MR-JINN-OF-TG) 
   
