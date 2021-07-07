@@ -2,7 +2,7 @@
 
 ### LET ME INTRODUCE SOME OF MY FEW INFORMATIONS
 
-KINDLY NOW WORKING ON A GROUP MANAGER BOT ALSO MANAGING A UPDATES CHANNEL, SUPPORT GROUP, GLOBAL BAN LOGS GROUP, WEBSITE AND A BOT. 
+KINDLY NOW WORKING ON A GROUP MANAGER BOT ALSO MANAGING A UPDATES CHANNEL, SUPPORT GROUP, GLOBAL BAN LOGS GROUP CHANNEL , WEBSITE AND A BOT. 
 
 
 
@@ -22,5 +22,6 @@ KINDLY NOW WORKING ON A GROUP MANAGER BOT ALSO MANAGING A UPDATES CHANNEL, SUPPO
     <summary>Top Languages</summary>
     <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-JINN-OF-TG)](https://github.com/MR-JINN-OF-TG)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-JINN-OF-TG)](https://github.com/MR-JINN-OF-T
+  
+# ᴅᴏɴᴛ ᴊᴜᴅɢᴇ ᴍᴇ ʙʏ ᴡᴀᴛᴄʜɪɴɢ ᴍʏ ɢɪᴛʜᴜ ꜱᴛᴀᴛᴜꜱ ʜᴀᴠᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴇᴅ ᴛᴏ ᴀ ʟᴏᴛ ᴏꜰ ᴡᴏʀᴋꜱ......ᴀɴᴅ ᴀʟꜱᴏ ꜱᴏᴍᴇ ᴏꜰ ᴍɪɴᴇ ꜰʀɪᴇɴᴅꜱ ᴀʀᴇ ᴛᴏᴏ ʜᴇʟᴘɪɴɢ ᴍᴇ ᴏɴ ɪᴛ......
