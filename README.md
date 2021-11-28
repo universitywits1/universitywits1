@@ -26,11 +26,10 @@ KINDLY NOW WORKING ON A GROUP MANAGER BOT ALSO MANAGING A UPDATES CHANNEL, SUPPO
   
 
 
-   
+<details>
+    <summary>Trophy Earned</summary>
+    <br/>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MR-JINN-OF-TG&theme=tokyonight&row=1"/>
     </a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MR-JINN-OF-TG&theme=tokyonight&row=1"/>
-    </a>
