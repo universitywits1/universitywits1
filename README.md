@@ -24,6 +24,8 @@ KINDLY NOW WORKING ON A GROUP MANAGER BOT ALSO MANAGING A UPDATES CHANNEL, SUPPO
 [![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://instagram.com/MR_JINN_OF_TG)
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/JINN_SULTHAN)
 
+
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MR-JINN-OF-TG&theme=tokyonight&row=1"/>
     </a>
