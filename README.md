@@ -29,4 +29,10 @@ KINDLY NOW WORKING ON A GROUP MANAGER BOT ALSO MANAGING A UPDATES CHANNEL, SUPPO
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-JINN-OF-TG)](https://github.com/MR-JINN-OF-TG) 
   
 
-
+<details>
+    <summary>Social Media Accounts</summary>
+    <br/>
+        
+[![Twitter](https://img.shields.io/twitter/follow/MR_JINN_OF_TG?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/MR_JINN_OF_TG)
+[![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://instagram.com/MR_JINN_OF_TG)
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/JINN_SULTHAN)
