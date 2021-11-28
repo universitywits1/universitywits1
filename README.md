@@ -15,8 +15,12 @@ KINDLY NOW WORKING ON A GROUP MANAGER BOT ALSO MANAGING A UPDATES CHANNEL, SUPPO
 
 
 ### MR-JINN-OF-TG GITHUB STATS❣️
-   
+
 ![MR-JINN-OF-TG GITHUB STATS](https://github-readme-stats.vercel.app/api?username=MR-JINN-OF-TG&include_all_commits=true&count_private=true&theme=white)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MR-JINN-OF-TG&theme=tokyonight&row=1"/>
+    </a>
 
 <details>
     <summary>Top Languages</summary>
@@ -24,7 +28,5 @@ KINDLY NOW WORKING ON A GROUP MANAGER BOT ALSO MANAGING A UPDATES CHANNEL, SUPPO
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-JINN-OF-TG)](https://github.com/MR-JINN-OF-TG) 
   
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MR-JINN-OF-TG&theme=tokyonight&row=1"/>
-    </a>
+
 
