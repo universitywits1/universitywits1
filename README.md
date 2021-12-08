@@ -19,7 +19,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/MR_JINN_OF_TG?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/MR_JINN_OF_TG)
 [![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://instagram.com/MR_JINN_OF_TG)
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/JINN_SULTHAN)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](MR-JINN-OF-TG:MRJINNOFTG@gmail.com)
 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
