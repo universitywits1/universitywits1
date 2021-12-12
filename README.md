@@ -23,6 +23,16 @@
 [![Website](https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=About.me&logoColor=white)](https://Ashikmuhammed.me)
 
 
+
+
+
+
+
+
+# Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{MR-JINN-OF-TG}/count.svg)
+
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MR-JINN-OF-TG&theme=tokyonight&row=1"/>
     </a>
